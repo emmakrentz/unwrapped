@@ -1,4 +1,4 @@
-# Spotify Unwrapped 2024
+# Unwrapped 2024
 
 ### Welcome to Unwrapped! 
 Here you will find all sorts of data about your genres, your artists, your songs, and more! This notebook:
