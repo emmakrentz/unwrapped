@@ -14,7 +14,9 @@ Log into <a href = 'https://developer.spotify.com/dashboard'> the Spotify Dev si
 Log into <a href = 'https://genius.com/api-clients'> the Genius Dev site </a> and click "New API Client" on the left sideboard. App name can be whatever you want. You do need a real website for App Website URL. Click Save. Click "Generate Access Token" and copy this down.
 ### 3. Install requirements
 In terminal, run "pip install -r requirements.txt".
-### 4. Run notebook
+### 4. Open Spotify
+Find the playlist made by Spotify for Wrapped labelled "Your Top Songs 2024". Click on the 3 dots at the top, then "Add to other playlist". It doesn't matter what this playlist is called but it must be **your most recent playlist created** or this will not work.
+### 5. Run notebook
 Open Unwrapped.ipynb and follow the instructions! All you need to do is copy in your access tokens and authorize your Spotify data and you're done! Happy unwrapping!
 
 
