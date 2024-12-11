@@ -17,6 +17,6 @@ In terminal, run "pip install -r requirements.txt".
 ### 4. Open Spotify
 Find the playlist made by Spotify for Wrapped labelled "Your Top Songs 2024". Click on the 3 dots at the top, then "Add to other playlist" and create a new playlist. It doesn't matter what this playlist is called but it must be **your most recent playlist created** or this will not work.
 ### 5. Run notebook
-Open Unwrapped.ipynb and follow the instructions. All you need to do is copy in your access tokens and authorize your Spotify data and you're done! Images will begin appearing in the "output_unwrapped" folder after a few minutes. Happy unwrapping!
+Open Unwrapped.ipynb and follow the instructions. All you need to do is copy in your access tokens and authorize your Spotify data and you're done! I found this didn't work in Colab as the authorization never popped up, so local runs are likely better. Images will begin appearing in the "output_unwrapped" folder after a few minutes. Happy unwrapping!
 
 
