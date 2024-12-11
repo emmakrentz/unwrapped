@@ -3,12 +3,9 @@ pandas
 numpy
 lyricsgenius
 textblob
-re
 joblib
 transformers
 torch
 PIL
 requests
-io
-os
-time
+Pillow
