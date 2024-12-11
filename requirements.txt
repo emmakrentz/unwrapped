@@ -6,6 +6,5 @@ textblob
 joblib
 transformers
 torch
-PIL
 requests
 Pillow
