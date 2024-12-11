@@ -20,3 +20,6 @@ Find the playlist made by Spotify for Wrapped labelled "Your Top Songs 2024". Cl
 Open Unwrapped.ipynb and follow the instructions. All you need to do is copy in your access tokens and authorize your Spotify data and you're done! I found this didn't work in Colab as the authorization never popped up, so local runs are likely better. Images will begin appearing in the "output_unwrapped" folder after a few minutes. Happy unwrapping!
 
 
+Also Spotify API ToS prohibits using API data in ML models, I did not use any Spotify data in ML models :) Just NLP on the lyrics, for which all the data came from Genius and not Spotify. So please leave me alone if you are a Spotify lawyer.
+
+
