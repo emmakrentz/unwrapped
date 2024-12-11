@@ -12,7 +12,7 @@ You will require Spotify and Genius API tokens which are free and easy to get. H
 Log into <a href = 'https://developer.spotify.com/dashboard'> the Spotify Dev site </a> and click "Create app" in the top right corner. App name and description can be whatever you want. Input "http://localhost/callback" as your Redirect URI. Check "Web API" and click Save. Now go to "Settings" in the top right corner, where you will find your Client ID and Client Secret. Copy these down.
 ### 2. Set up Genius API credentials
 Log into <a href = 'https://genius.com/api-clients'> the Genius Dev site </a> and click "New API Client" on the left sideboard. App name can be whatever you want. You do need a real website for App Website URL. Click Save. Click "Generate Access Token" and copy this down.
-### 3. Install requirements
+### 3. Clone & Install requirements
 In terminal, run "pip install -r requirements.txt".
 ### 4. Open Spotify
 Find the playlist made by Spotify for Wrapped labelled "Your Top Songs 2024". Click on the 3 dots at the top, then "Add to other playlist" and create a new playlist. It doesn't matter what this playlist is called but it must be **your most recent playlist created** or this will not work.
